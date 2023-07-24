@@ -1,0 +1,22 @@
+2023-07-03 22:10:13,576 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 22:10:37,667 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 22:10:37,757 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-03 22:10:38,057 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 22:10:38,225 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 22:10:38,833 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 22:10:39,010 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 22:10:42,152 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-03 22:10:42,314 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-03 22:10:50,218 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-03 22:11:06,796 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-03 22:11:06,971 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 22:11:07,114 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 22:11:07,563 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 22:11:10,579 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 22:11:10,703 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 22:11:10,950 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 22:11:11,092 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 22:11:14,166 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: Boult Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...]
+2023-07-03 22:11:14,272 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: Boult Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...]
+2023-07-03 22:11:16,718 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-03 22:11:17,929 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

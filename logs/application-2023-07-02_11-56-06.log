@@ -1,0 +1,5 @@
+2023-07-02 11:56:07,225 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-02 11:56:43,946 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-02 11:56:44,079 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-02 11:56:44,217 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-02 11:56:44,691 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]

@@ -1,0 +1,83 @@
+2023-07-04 20:16:25,641 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-04 20:16:42,558 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-04 20:16:42,643 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyAddToCart' started.
+2023-07-04 20:16:42,785 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:16:42,881 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:16:43,197 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-04 20:16:43,343 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-04 20:16:46,414 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: D-Link R 04 300 Mbps Wireless Router]
+2023-07-04 20:16:46,525 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: D-Link R 04 300 Mbps Wireless Router]
+2023-07-04 20:17:10,020 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ADD TO CART]
+2023-07-04 20:17:10,559 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: GOING TO CART]
+2023-07-04 20:17:15,233 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyAddToCart' passed.
+2023-07-04 20:17:22,558 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-04 20:17:22,638 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-04 20:17:22,723 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:17:22,785 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:17:23,027 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-04 20:17:23,194 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-04 20:17:26,270 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-04 20:17:26,360 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-04 20:17:28,579 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-04 20:17:45,256 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-04 20:17:45,463 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:17:45,557 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:17:45,923 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-04 20:17:48,875 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:17:49,018 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:17:49,266 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-04 20:17:49,397 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-04 20:17:52,460 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: Boult Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...]
+2023-07-04 20:17:52,580 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: Boult Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...]
+2023-07-04 20:17:55,636 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-04 20:18:14,776 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyValiadAndInvalidPincode' started.
+2023-07-04 20:18:14,916 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:14,994 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:15,325 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-04 20:18:18,895 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:19,081 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:19,447 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-04 20:18:19,639 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-04 20:18:22,718 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-04 20:18:22,878 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-04 20:18:26,507 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:26,697 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:27,063 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: span, Text: Check]
+2023-07-04 20:18:27,214 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: span, Text: Change]
+2023-07-04 20:18:47,471 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyValiadAndInvalidPincode' started.
+2023-07-04 20:18:47,583 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:47,640 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:47,874 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-04 20:18:50,583 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:50,729 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:51,032 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-04 20:18:51,202 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-04 20:18:54,292 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-04 20:18:54,507 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-04 20:18:57,840 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:58,036 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:18:58,377 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: span, Text: Check]
+2023-07-04 20:18:58,525 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: span, Text: Change]
+2023-07-04 20:19:08,032 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-04 20:19:08,170 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyValiadAndInvalidPincode' started.
+2023-07-04 20:19:08,368 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:19:08,565 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:19:09,008 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-04 20:19:09,149 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-04 20:19:12,207 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-04 20:19:12,306 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-04 20:19:14,445 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:19:14,553 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:19:14,782 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: span, Text: Check]
+2023-07-04 20:19:14,884 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: span, Text: Change]
+2023-07-04 20:19:16,770 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 20:19:16,902 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 20:19:17,118 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: span, Text: Check]
+2023-07-04 20:19:17,236 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: span, Text: Change]
+2023-07-04 20:19:17,291 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyValiadAndInvalidPincode' passed.
+2023-07-04 20:19:26,352 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-04 20:19:26,484 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' started.
+2023-07-04 20:19:30,018 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' passed.
+2023-07-04 20:19:48,947 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' started.
+2023-07-04 20:24:40,624 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' passed.
+2023-07-04 20:24:41,381 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

@@ -1,0 +1,24 @@
+2023-07-02 15:04:55,531 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-02 15:05:25,165 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-02 15:05:25,318 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-02 15:05:25,397 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-02 15:05:25,640 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-02 15:05:47,283 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ?]
+2023-07-02 15:05:47,354 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-02 15:05:47,438 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-02 15:05:47,508 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-02 15:05:47,719 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-02 15:05:47,886 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-02 15:05:49,055 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-02 15:05:49,177 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-02 15:05:51,517 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-02 15:05:57,687 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ?]
+2023-07-02 15:05:57,763 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-02 15:05:57,856 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-02 15:05:57,923 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-02 15:05:58,129 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-02 15:05:58,287 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-02 15:05:59,077 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: Mivi Collar Classic Neckband with Fast Charging Bluetoo...]
+2023-07-02 15:05:59,234 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: Mivi Collar Classic Neckband with Fast Charging Bluetoo...]
+2023-07-02 15:06:01,247 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-02 15:06:02,634 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

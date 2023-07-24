@@ -1,0 +1,4 @@
+2023-07-03 11:32:23,030 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 11:32:51,864 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' started.
+2023-07-03 11:37:34,293 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' passed.
+2023-07-03 11:37:35,685 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

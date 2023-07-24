@@ -1,0 +1,5 @@
+2023-07-02 15:07:39,372 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-02 15:07:46,240 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ?]
+2023-07-02 15:07:46,318 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' started.
+2023-07-02 15:07:50,476 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' passed.
+2023-07-02 15:07:51,800 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

@@ -1,0 +1,16 @@
+2023-07-01 14:23:37,649 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-01 14:23:56,215 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-01 14:23:56,297 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-01 14:24:10,026 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 14:24:10,291 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 14:24:11,289 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-01 14:24:11,609 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-01 14:24:13,181 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-01 14:24:13,660 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-01 14:24:57,849 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-01 14:25:15,816 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-01 14:25:27,284 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 14:25:27,544 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 14:25:28,522 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-01 14:26:01,250 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' failed.
+2023-07-01 14:26:01,941 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

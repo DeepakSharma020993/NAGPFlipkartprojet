@@ -1,0 +1,51 @@
+2023-07-03 14:48:36,604 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 14:48:45,067 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 14:48:45,136 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' started.
+2023-07-03 14:48:48,987 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' passed.
+2023-07-03 14:48:55,711 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 14:48:55,778 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' started.
+2023-07-03 14:52:39,246 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' passed.
+2023-07-03 14:52:56,202 INFO  [main] c.n.f.b.BaseTest - Test 'verifyPriceFilter' started.
+2023-07-03 14:52:56,557 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:52:56,626 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:52:57,135 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 14:52:59,835 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:52:59,967 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:53:00,200 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 14:53:00,347 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 14:53:00,484 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: option, Text: ₹300]
+2023-07-03 14:53:00,624 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: option, Text: ₹300]
+2023-07-03 14:53:00,795 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: option, Text: ₹700]
+2023-07-03 14:53:00,917 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: option, Text: ₹700]
+2023-07-03 14:53:10,094 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: option, Text: ₹500]
+2023-07-03 14:53:10,208 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: option, Text: ₹500]
+2023-07-03 14:53:19,232 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: option, Text: ₹1500]
+2023-07-03 14:53:19,908 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: option, Text: ₹1500]
+2023-07-03 14:53:28,343 INFO  [main] c.n.f.b.BaseTest - Test 'verifyPriceFilter' failed.
+2023-07-03 14:53:34,814 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 14:53:34,881 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchPageElements' started.
+2023-07-03 14:53:34,969 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:53:35,045 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:53:35,276 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 14:53:35,468 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 14:53:36,311 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:53:36,372 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:53:36,606 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 14:53:36,705 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 14:53:37,114 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:53:37,175 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:53:37,419 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 14:53:37,513 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 14:53:37,894 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchPageElements' passed.
+2023-07-03 14:54:00,632 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 14:54:00,709 INFO  [main] c.n.f.b.BaseTest - Test 'verifySortFunctionality' started.
+2023-07-03 14:54:00,807 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:54:00,893 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:54:01,155 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 14:54:01,301 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 14:54:04,425 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: div, Text: Price -- Low to High]
+2023-07-03 14:54:04,542 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: div, Text: Price -- Low to High]
+2023-07-03 14:54:13,097 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: div, Text: Price -- High to Low]
+2023-07-03 14:54:13,217 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: div, Text: Price -- High to Low]
+2023-07-03 14:54:21,786 INFO  [main] c.n.f.b.BaseTest - Test 'verifySortFunctionality' passed.
+2023-07-03 14:54:22,846 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

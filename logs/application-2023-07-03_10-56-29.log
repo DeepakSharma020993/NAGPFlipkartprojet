@@ -1,0 +1,24 @@
+2023-07-03 10:56:30,387 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 10:56:48,709 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 10:56:48,810 INFO  [main] c.n.f.b.BaseTest - Test 'verifyAllCategoryItems' started.
+2023-07-03 10:56:49,070 INFO  [main] c.n.f.b.BaseTest - Test 'verifyAllCategoryItems' passed.
+2023-07-03 10:56:55,781 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 10:56:55,859 INFO  [main] c.n.f.b.BaseTest - Test 'verifyLogoVisibility' started.
+2023-07-03 10:56:55,973 INFO  [main] c.n.f.b.BaseTest - Test 'verifyLogoVisibility' passed.
+2023-07-03 10:57:02,268 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 10:57:02,339 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' started.
+2023-07-03 10:57:06,532 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' passed.
+2023-07-03 10:57:13,096 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 10:57:13,184 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' started.
+2023-07-03 11:00:55,418 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' passed.
+2023-07-03 11:01:03,042 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 11:01:03,115 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchFunctionality' started.
+2023-07-03 11:01:03,316 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 11:01:03,536 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 11:01:03,749 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchFunctionality' failed.
+2023-07-03 11:01:10,859 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 11:01:10,935 INFO  [main] c.n.f.b.BaseTest - Test 'verifySlideButtonWorkingFine' started.
+2023-07-03 11:01:11,031 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: div, Text: ]
+2023-07-03 11:01:11,106 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: div, Text: ]
+2023-07-03 11:01:11,129 INFO  [main] c.n.f.b.BaseTest - Test 'verifySlideButtonWorkingFine' passed.
+2023-07-03 11:01:12,102 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

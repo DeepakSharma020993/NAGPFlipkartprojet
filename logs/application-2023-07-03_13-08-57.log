@@ -1,0 +1,7 @@
+2023-07-03 13:08:58,095 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 13:09:24,877 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchFunctionality' started.
+2023-07-03 13:09:25,075 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 13:09:25,143 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 13:09:25,423 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 13:09:28,208 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchFunctionality' failed.
+2023-07-03 13:09:29,416 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

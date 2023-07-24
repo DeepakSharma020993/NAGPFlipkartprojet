@@ -1,0 +1,23 @@
+2023-07-03 13:10:53,453 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 13:11:00,120 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 13:11:00,200 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchFunctionality' started.
+2023-07-03 13:11:00,366 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 13:11:00,451 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 13:11:00,768 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 13:11:00,856 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 13:11:02,437 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 13:11:03,053 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 13:11:03,884 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 13:11:04,251 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 13:11:31,036 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 13:11:31,110 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchFunctionality' started.
+2023-07-03 13:11:31,215 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 13:11:31,293 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 13:11:31,532 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 13:11:31,605 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 13:11:32,966 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 13:11:33,024 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 13:11:33,237 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 13:11:33,359 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 13:11:33,658 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchFunctionality' passed.
+2023-07-03 13:11:34,483 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

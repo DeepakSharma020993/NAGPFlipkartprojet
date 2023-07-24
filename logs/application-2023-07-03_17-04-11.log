@@ -1,0 +1,13 @@
+2023-07-03 17:04:11,752 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 17:04:30,943 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 17:04:31,037 INFO  [main] c.n.f.b.BaseTest - Test 'verifyPriceFilter' started.
+2023-07-03 17:04:31,344 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 17:04:31,469 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 17:04:31,858 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 17:04:32,073 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 17:04:35,358 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: option, Text: ₹300]
+2023-07-03 17:04:35,523 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: option, Text: ₹300]
+2023-07-03 17:04:35,797 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: option, Text: ₹700]
+2023-07-03 17:04:35,910 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: option, Text: ₹700]
+2023-07-03 17:08:27,373 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: option, Text: ₹500]
+2023-07-03 17:08:27,552 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: option, Text: ₹500]

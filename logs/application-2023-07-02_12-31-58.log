@@ -1,0 +1,4 @@
+2023-07-02 12:31:58,958 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-02 12:32:34,164 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-02 12:32:34,336 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-02 12:32:34,767 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]

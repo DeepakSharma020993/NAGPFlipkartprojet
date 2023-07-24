@@ -1,0 +1,63 @@
+2023-07-04 19:52:18,364 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-04 19:52:47,754 INFO  [main] c.n.f.b.BaseTest - Test 'verifyCorrectItemsInCart' started.
+2023-07-04 19:52:47,926 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 19:52:48,016 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 19:52:48,277 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-04 19:53:03,539 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 19:53:03,666 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 19:53:03,859 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-04 19:53:03,995 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-04 19:53:07,097 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: D-Link R 04 300 Mbps Wireless Router]
+2023-07-04 19:53:07,215 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: D-Link R 04 300 Mbps Wireless Router]
+2023-07-04 19:53:09,377 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ADD TO CART]
+2023-07-04 19:53:09,458 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: GOING TO CART]
+2023-07-04 19:53:11,001 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 19:53:11,078 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 19:53:11,295 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-04 19:53:11,401 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-04 19:53:14,576 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: Cospex NA 1.7 A Mobile Mini Size Lighweight Portable Ch...]
+2023-07-04 19:53:14,661 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: Cospex NA 1.7 A Mobile Mini Size Lighweight Portable Ch...]
+2023-07-04 19:53:16,194 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ADD TO CART]
+2023-07-04 19:53:16,255 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: GOING TO CART]
+2023-07-04 19:53:16,961 INFO  [main] c.n.f.b.BaseTest - Test 'verifyCorrectItemsInCart' passed.
+2023-07-04 19:53:23,092 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-04 19:53:23,162 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' started.
+2023-07-04 19:53:25,617 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' passed.
+2023-07-04 19:53:31,506 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-04 19:53:31,575 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' started.
+2023-07-04 19:57:02,324 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' passed.
+2023-07-04 19:57:08,363 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-04 19:57:08,438 INFO  [main] c.n.f.b.BaseTest - Test 'verifyRemoveFromCart' started.
+2023-07-04 19:57:08,520 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 19:57:08,583 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 19:57:08,791 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-04 19:57:08,955 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-04 19:57:12,020 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: D-Link R 04 300 Mbps Wireless Router]
+2023-07-04 19:57:12,124 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: D-Link R 04 300 Mbps Wireless Router]
+2023-07-04 19:57:13,956 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ADD TO CART]
+2023-07-04 19:57:14,035 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: GOING TO CART]
+2023-07-04 19:57:14,747 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: div, Text: REMOVE]
+2023-07-04 19:57:14,829 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: div, Text: REMOVE]
+2023-07-04 19:57:14,902 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: div, Text: ]
+2023-07-04 19:57:14,975 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: div, Text: REMOVE]
+2023-07-04 19:57:15,187 INFO  [main] c.n.f.b.BaseTest - Test 'verifyRemoveFromCart' passed.
+2023-07-04 19:57:21,417 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-04 19:57:21,498 INFO  [main] c.n.f.b.BaseTest - Test 'verifyToatalPriceIsCorrect' started.
+2023-07-04 19:57:21,591 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 19:57:21,656 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 19:57:21,869 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-04 19:57:21,945 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-04 19:57:25,021 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: D-Link R 04 300 Mbps Wireless Router]
+2023-07-04 19:57:25,128 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: D-Link R 04 300 Mbps Wireless Router]
+2023-07-04 19:57:27,059 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ADD TO CART]
+2023-07-04 19:57:27,152 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: GOING TO CART]
+2023-07-04 19:57:28,719 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-04 19:57:28,836 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-04 19:57:29,173 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-04 19:57:29,308 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-04 19:57:32,367 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: Boult Audio Curve with BoomX Rich Bass, Flexi-band, Mag...]
+2023-07-04 19:57:32,452 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: Boult Audio Curve with BoomX Rich Bass, Flexi-band, Mag...]
+2023-07-04 19:57:34,025 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ADD TO CART]
+2023-07-04 19:57:34,097 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: GOING TO CART]
+2023-07-04 19:57:34,744 INFO  [main] c.n.f.b.BaseTest - Test 'verifyToatalPriceIsCorrect' passed.
+2023-07-04 19:57:35,717 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

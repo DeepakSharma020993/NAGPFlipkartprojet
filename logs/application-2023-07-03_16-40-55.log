@@ -1,0 +1,13 @@
+2023-07-03 16:40:56,175 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 16:41:15,980 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 16:41:16,067 INFO  [main] c.n.f.b.BaseTest - Test 'verifySortFunctionality' started.
+2023-07-03 16:41:16,198 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 16:41:16,288 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 16:41:16,652 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 16:41:16,802 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 16:41:19,925 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: div, Text: Price -- Low to High]
+2023-07-03 16:41:20,076 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: div, Text: Price -- Low to High]
+2023-07-03 16:41:28,953 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: div, Text: Price -- High to Low]
+2023-07-03 16:41:29,079 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: div, Text: Price -- High to Low]
+2023-07-03 16:41:37,447 INFO  [main] c.n.f.b.BaseTest - Test 'verifySortFunctionality' passed.
+2023-07-03 16:41:38,166 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

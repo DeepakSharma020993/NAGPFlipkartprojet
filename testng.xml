@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="MyTest">
+        <classes>
+            <class name="com.nagpassignment.flipkart.uitestcases.ProductDetailTest">
+           <methods>
+          <include name="VerifyCorrectRatesAfterDiscount"/>
+        </methods>
+            </class>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.nagpassignment.flipkart.listeners.MyTestListener"/>
+        <!-- Add other listener class-names if needed -->
+    </listeners>
+    
+</suite>

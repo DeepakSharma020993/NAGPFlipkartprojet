@@ -1,0 +1,16 @@
+com\nagpassignment\flipkart\pages\FlipkartProductDetailPage.class
+com\nagpassignment\flipkart\utils\AssertionUtil.class
+com\nagpassignment\flipkart\utils\ListSortChecker$SortingType.class
+com\nagpassignment\flipkart\pages\FlipkartSearchPage.class
+com\nagpassignment\flipkart\utils\TestResultHandler.class
+com\nagpassignment\flipkart\utils\ExcelUtils.class
+com\nagpassignment\flipkart\utils\ExcelUtils$1.class
+com\nagpassignment\flipkart\listeners\MyTestListener.class
+com\nagpassignment\flipkart\utils\ListSortChecker.class
+com\nagpassignment\flipkart\utils\JsonDataReader.class
+com\nagpassignment\flipkart\pages\FlipkartHomePage.class
+com\nagpassignment\flipkart\utils\RetryAnalyzer.class
+com\nagpassignment\flipkart\base\BasePage.class
+com\nagpassignment\flipkart\pages\FlipKartCartPage.class
+com\nagpassignment\flipkart\base\BaseTest.class
+com\nagpassignment\flipkart\utils\PageData.class

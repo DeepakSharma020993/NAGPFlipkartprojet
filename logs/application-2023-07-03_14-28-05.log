@@ -1,0 +1,22 @@
+2023-07-03 14:28:05,853 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 14:28:35,697 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' started.
+2023-07-03 14:29:00,253 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' passed.
+2023-07-03 14:29:17,937 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 14:29:18,039 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' started.
+2023-07-03 14:32:55,607 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' passed.
+2023-07-03 14:33:25,130 INFO  [main] c.n.f.b.BaseTest - Test 'verifyPriceFilter' started.
+2023-07-03 14:33:25,422 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:33:25,519 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:33:26,133 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 14:33:43,087 INFO  [main] c.n.f.b.BaseTest - Test 'verifyPriceFilter' failed.
+2023-07-03 14:34:00,168 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchPageElements' started.
+2023-07-03 14:34:00,373 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:34:00,463 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:34:00,890 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 14:34:02,985 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchPageElements' failed.
+2023-07-03 14:34:19,690 INFO  [main] c.n.f.b.BaseTest - Test 'verifySortFunctionality' started.
+2023-07-03 14:34:19,889 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:34:20,016 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:34:20,428 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 14:34:22,854 INFO  [main] c.n.f.b.BaseTest - Test 'verifySortFunctionality' failed.
+2023-07-03 14:34:23,980 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

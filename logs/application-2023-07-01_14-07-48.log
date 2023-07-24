@@ -1,0 +1,7 @@
+2023-07-01 14:07:59,559 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-01 14:08:27,846 INFO  [main] c.n.f.b.BaseTest - Test 'verifyToatalPriceIsCorrect' started.
+2023-07-01 14:08:28,013 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 14:08:28,091 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 14:08:28,345 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-01 14:08:58,621 INFO  [main] c.n.f.b.BaseTest - Test 'verifyToatalPriceIsCorrect' failed.
+2023-07-01 14:08:59,239 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

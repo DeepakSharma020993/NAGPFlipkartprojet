@@ -1,0 +1,58 @@
+2023-07-03 17:54:57,320 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 17:55:51,039 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyAddToCart' started.
+2023-07-03 17:55:51,346 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 17:55:51,586 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 17:55:52,519 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 17:56:12,816 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 17:56:13,095 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 17:56:13,324 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 17:56:13,473 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 17:56:16,594 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: D-Link DIR-825 AC1200 Wi-Fi Gigabit 1200 Mbps Wireless ...]
+2023-07-03 17:56:16,826 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: D-Link DIR-825 AC1200 Wi-Fi Gigabit 1200 Mbps Wireless ...]
+2023-07-03 17:56:20,138 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ADD TO CART]
+2023-07-03 17:56:20,313 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: GOING TO CART]
+2023-07-03 17:56:22,041 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyAddToCart' passed.
+2023-07-03 17:56:47,827 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-03 17:56:48,039 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 17:56:48,224 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 17:56:48,930 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 17:56:54,409 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 17:56:54,840 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 17:56:55,467 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 17:56:55,815 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 17:56:58,945 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-03 17:56:59,185 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-03 17:57:04,745 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-03 17:57:25,993 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-03 17:57:26,130 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 17:57:26,248 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 17:57:26,743 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 17:57:30,821 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 17:57:30,980 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 17:57:31,499 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 17:57:31,838 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 17:57:34,950 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: Mivi Collar Classic Neckband with Fast Charging Bluetoo...]
+2023-07-03 17:57:35,240 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: Mivi Collar Classic Neckband with Fast Charging Bluetoo...]
+2023-07-03 17:57:40,358 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-03 17:58:00,283 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyValiadAndInvalidPincode' started.
+2023-07-03 17:58:00,498 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 17:58:00,628 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 17:58:01,010 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 17:58:04,434 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 17:58:04,631 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 17:58:04,859 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 17:58:05,033 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 17:58:08,114 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-03 17:58:08,287 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-03 17:58:11,769 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 17:58:11,970 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 17:58:12,343 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: span, Text: Check]
+2023-07-03 17:58:12,494 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: span, Text: Change]
+2023-07-03 17:58:12,645 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyValiadAndInvalidPincode' failed.
+2023-07-03 17:58:23,072 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 17:58:23,266 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' started.
+2023-07-03 17:58:27,962 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' passed.
+2023-07-03 17:58:38,828 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 17:58:38,988 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' started.
+2023-07-03 18:02:31,436 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' passed.
+2023-07-03 18:02:32,421 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

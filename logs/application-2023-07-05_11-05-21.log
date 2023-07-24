@@ -1,0 +1,28 @@
+2023-07-05 11:05:22,048 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-05 11:05:55,281 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-05 11:05:55,520 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-05 11:05:55,701 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-05 11:05:56,204 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-05 11:06:03,542 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-05 11:06:03,636 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-05 11:06:03,902 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-05 11:06:03,983 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-05 11:06:25,937 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-05 11:06:26,004 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-05 11:06:26,107 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-05 11:06:26,196 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-05 11:06:26,620 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-05 11:06:26,778 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-05 11:06:29,866 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: MarQ by Flipkart 22 inch Full HD LED Backlit VA Panel w...]
+2023-07-05 11:06:30,024 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: MarQ by Flipkart 22 inch Full HD LED Backlit VA Panel w...]
+2023-07-05 11:06:51,941 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-05 11:07:00,707 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-05 11:07:00,788 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-05 11:07:00,896 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-05 11:07:01,047 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-05 11:07:01,572 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-05 11:07:01,670 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-05 11:07:04,939 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...]
+2023-07-05 11:07:05,157 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: truke BTG1 Earbuds with Game Mode, 48H Playtime, Quad M...]
+2023-07-05 11:07:08,117 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-05 11:07:09,223 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

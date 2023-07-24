@@ -1,0 +1,9 @@
+2023-07-03 12:59:51,173 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 13:00:11,381 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 13:00:11,467 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchFunctionality' started.
+2023-07-03 13:00:11,851 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 13:00:12,098 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 13:00:14,111 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 13:00:14,312 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 13:00:14,650 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchFunctionality' passed.
+2023-07-03 13:00:15,293 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

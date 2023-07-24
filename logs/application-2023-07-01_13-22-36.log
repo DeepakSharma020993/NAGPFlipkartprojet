@@ -1,0 +1,21 @@
+2023-07-01 13:22:37,286 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-01 13:22:48,491 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-01 13:22:48,700 INFO  [main] c.n.f.b.BaseTest - Test 'verifyToatalPriceIsCorrect' started.
+2023-07-01 13:22:48,946 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 13:22:49,099 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 13:22:49,625 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-01 13:22:49,877 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-01 13:22:50,803 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: TP-Link TL-WA850RE(IN) 300 Mbps WiFi Range Extender]
+2023-07-01 13:22:51,009 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: TP-Link TL-WA850RE(IN) 300 Mbps WiFi Range Extender]
+2023-07-01 13:22:53,830 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ADD TO CART]
+2023-07-01 13:22:54,008 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: GOING TO CART]
+2023-07-01 13:22:56,371 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 13:22:56,624 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 13:22:57,170 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-01 13:22:58,231 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-01 13:22:59,139 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: Boult Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...]
+2023-07-01 13:22:59,406 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: Boult Audio AirBass Y1 TWS Earbuds, 40H Playtime, Fast ...]
+2023-07-01 13:23:01,568 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ADD TO CART]
+2023-07-01 13:23:01,723 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: GOING TO CART]
+2023-07-01 13:23:02,347 INFO  [main] c.n.f.b.BaseTest - Test 'verifyToatalPriceIsCorrect' passed.
+2023-07-01 13:23:03,559 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

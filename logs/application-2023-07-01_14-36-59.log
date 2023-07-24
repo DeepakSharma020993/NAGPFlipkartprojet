@@ -1,0 +1,20 @@
+2023-07-01 14:36:59,570 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-01 14:37:07,583 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-01 14:37:07,665 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-01 14:37:07,790 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 14:37:07,872 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 14:37:08,198 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-01 14:37:08,350 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-01 14:37:09,446 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-01 14:37:09,586 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-01 14:37:12,152 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-01 14:37:18,963 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-01 14:37:19,046 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-01 14:37:19,152 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 14:37:19,234 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 14:37:19,541 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-01 14:37:19,669 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-01 14:37:20,574 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: Mivi Collar Classic Neckband with Fast Charging Bluetoo...]
+2023-07-01 14:37:20,733 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: Mivi Collar Classic Neckband with Fast Charging Bluetoo...]
+2023-07-01 14:37:22,798 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-01 14:37:23,745 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

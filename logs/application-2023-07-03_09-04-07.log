@@ -1,0 +1,11 @@
+2023-07-03 09:04:08,336 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 09:04:38,794 INFO  [main] c.n.f.b.BaseTest - Test 'verifyAllCategoryItems' started.
+2023-07-03 09:04:48,903 INFO  [main] c.n.f.b.BaseTest - Test 'verifyAllCategoryItems' failed.
+2023-07-03 09:04:56,128 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 09:04:56,204 INFO  [main] c.n.f.b.BaseTest - Test 'verifyLogoVisibility' started.
+2023-07-03 09:04:56,267 INFO  [main] c.n.f.b.BaseTest - Test 'verifyLogoVisibility' failed.
+2023-07-03 09:05:02,606 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 09:05:02,684 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' started.
+2023-07-03 09:05:03,160 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' failed.
+2023-07-03 09:05:09,550 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 09:05:09,635 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' started.

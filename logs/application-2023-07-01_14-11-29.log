@@ -1,0 +1,46 @@
+2023-07-01 14:11:29,735 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-01 14:11:37,452 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-01 14:11:37,618 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyAddToCart' started.
+2023-07-01 14:11:37,837 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 14:11:38,006 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 14:11:38,485 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-01 14:11:38,754 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-01 14:11:39,569 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: TP-Link TL-WA850RE(IN) 300 Mbps WiFi Range Extender]
+2023-07-01 14:11:39,769 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: TP-Link TL-WA850RE(IN) 300 Mbps WiFi Range Extender]
+2023-07-01 14:11:42,237 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ADD TO CART]
+2023-07-01 14:11:42,371 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: GOING TO CART]
+2023-07-01 14:11:43,617 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyAddToCart' passed.
+2023-07-01 14:12:03,609 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-01 14:12:34,286 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 14:12:34,363 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 14:12:34,595 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-01 14:12:37,458 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' failed.
+2023-07-01 14:12:55,645 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-01 14:13:04,599 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 14:13:04,774 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 14:13:05,476 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-01 14:13:09,967 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' failed.
+2023-07-01 14:13:19,292 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-01 14:13:19,459 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyValiadAndInvalidPincode' started.
+2023-07-01 14:13:19,676 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 14:13:19,849 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 14:13:20,378 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-01 14:13:20,647 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-01 14:13:21,632 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-01 14:13:21,814 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-01 14:13:24,210 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 14:13:24,335 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 14:13:24,596 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: span, Text: Check]
+2023-07-01 14:13:24,701 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: span, Text: Change]
+2023-07-01 14:13:26,422 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-01 14:13:26,539 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-01 14:13:26,753 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: span, Text: Check]
+2023-07-01 14:13:26,873 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: span, Text: Change]
+2023-07-01 14:13:26,926 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyValiadAndInvalidPincode' passed.
+2023-07-01 14:13:35,742 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-01 14:13:35,877 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' started.
+2023-07-01 14:13:41,059 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' passed.
+2023-07-01 14:13:49,794 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-01 14:13:49,935 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' started.
+2023-07-01 14:17:42,796 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' passed.
+2023-07-01 14:17:44,065 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

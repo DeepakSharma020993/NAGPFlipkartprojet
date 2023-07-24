@@ -1,0 +1,29 @@
+2023-07-03 14:41:16,556 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 14:41:32,120 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 14:41:32,224 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' started.
+2023-07-03 14:41:36,030 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' passed.
+2023-07-03 14:41:42,559 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 14:41:42,634 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' started.
+2023-07-03 14:45:11,446 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' passed.
+2023-07-03 14:45:19,092 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 14:45:19,172 INFO  [main] c.n.f.b.BaseTest - Test 'verifyPriceFilter' started.
+2023-07-03 14:45:19,336 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:45:19,426 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:45:19,904 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 14:45:19,988 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 14:45:30,022 INFO  [main] c.n.f.b.BaseTest - Test 'verifyPriceFilter' failed.
+2023-07-03 14:45:36,159 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 14:45:36,249 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchPageElements' started.
+2023-07-03 14:45:36,333 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:45:36,403 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:45:36,602 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 14:45:36,793 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 14:45:46,803 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchPageElements' failed.
+2023-07-03 14:45:54,555 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 14:45:54,623 INFO  [main] c.n.f.b.BaseTest - Test 'verifySortFunctionality' started.
+2023-07-03 14:45:54,704 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 14:45:54,781 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 14:45:55,026 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 14:45:55,114 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 14:46:05,181 INFO  [main] c.n.f.b.BaseTest - Test 'verifySortFunctionality' failed.
+2023-07-03 14:46:06,263 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

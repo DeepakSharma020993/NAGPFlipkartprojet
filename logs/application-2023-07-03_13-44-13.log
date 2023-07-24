@@ -1,0 +1,21 @@
+2023-07-03 13:44:14,222 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 13:44:29,691 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 13:44:29,794 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' started.
+2023-07-03 13:44:34,254 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenImages' passed.
+2023-07-03 13:44:53,094 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' started.
+2023-07-03 13:49:42,433 INFO  [main] c.n.f.b.BaseTest - Test 'verifyNoBrokenLinks' passed.
+2023-07-03 13:50:10,363 INFO  [main] c.n.f.b.BaseTest - Test 'verifyPriceFilter' started.
+2023-07-03 13:50:10,389 INFO  [main] c.n.f.b.BaseTest - Test 'verifyPriceFilter' failed.
+2023-07-03 13:50:29,910 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchPageElements' started.
+2023-07-03 13:50:30,018 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 13:50:30,096 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 13:50:30,377 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 13:50:45,083 INFO  [main] c.n.f.b.BaseTest - Test 'verifySearchPageElements' failed.
+2023-07-03 13:50:57,011 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ✕]
+2023-07-03 13:50:57,169 INFO  [main] c.n.f.b.BaseTest - Test 'verifySortFunctionality' started.
+2023-07-03 13:50:57,406 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 13:50:57,574 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 13:50:58,105 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 13:50:58,451 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 13:51:08,501 INFO  [main] c.n.f.b.BaseTest - Test 'verifySortFunctionality' failed.
+2023-07-03 13:51:09,793 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

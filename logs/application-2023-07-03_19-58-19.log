@@ -1,0 +1,21 @@
+2023-07-03 19:58:19,795 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-03 19:58:52,907 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyValiadAndInvalidPincode' started.
+2023-07-03 19:58:53,151 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 19:58:53,227 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 19:58:53,599 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: Search Icon]
+2023-07-03 19:59:13,009 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 19:59:13,110 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 19:59:13,330 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-03 19:59:13,454 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-03 19:59:16,546 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-03 19:59:16,645 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: SAMSUNG T7 1 TB External Solid State Drive (SSD)]
+2023-07-03 19:59:18,586 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 19:59:18,668 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 19:59:18,818 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: span, Text: Check]
+2023-07-03 19:59:18,911 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: span, Text: Change]
+2023-07-03 19:59:20,470 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-03 19:59:20,584 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-03 19:59:20,729 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: span, Text: Check]
+2023-07-03 19:59:20,794 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: span, Text: Change]
+2023-07-03 19:59:20,831 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyValiadAndInvalidPincode' passed.
+2023-07-03 19:59:21,760 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.
