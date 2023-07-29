@@ -8,6 +8,7 @@ com\nagpassignment\flipkart\utils\ExcelUtils$1.class
 com\nagpassignment\flipkart\listeners\MyTestListener.class
 com\nagpassignment\flipkart\utils\ListSortChecker.class
 com\nagpassignment\flipkart\utils\JsonDataReader.class
+com\nagpassignment\flipkart\utils\ReporterUtil.class
 com\nagpassignment\flipkart\pages\FlipkartHomePage.class
 com\nagpassignment\flipkart\utils\RetryAnalyzer.class
 com\nagpassignment\flipkart\base\BasePage.class

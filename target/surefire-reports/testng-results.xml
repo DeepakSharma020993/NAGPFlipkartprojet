@@ -1,40 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="4" total="5" passed="1" failed="0" skipped="0">
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-02T15:07:39 IST" name="MyTestSuite" finished-at="2023-07-02T15:07:51 IST" duration-ms="11999">
+  <suite started-at="2023-07-24T19:00:20 IST" name="MyTestSuite" finished-at="2023-07-24T19:01:26 IST" duration-ms="66152">
     <groups>
+      <group name="productDetail,Regression">
+        <method signature="ProductDetailTest.VerifyCorrectRatesAfterDiscount(java.lang.String)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" name="VerifyCorrectRatesAfterDiscount" class="com.nagpassignment.flipkart.uitestcases.ProductDetailTest"/>
+      </group> <!-- productDetail,Regression -->
     </groups>
-    <test started-at="2023-07-02T15:07:39 IST" name="MyTest" finished-at="2023-07-02T15:07:51 IST" duration-ms="11999">
+    <test started-at="2023-07-24T19:00:20 IST" name="MyTest" finished-at="2023-07-24T19:01:26 IST" duration-ms="66152">
       <class name="com.nagpassignment.flipkart.uitestcases.ProductDetailTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@5b408dc3]" started-at="2023-07-02T15:07:39 IST" name="setUp" finished-at="2023-07-02T15:07:39 IST" duration-ms="65" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:00:20 IST" name="setUp" finished-at="2023-07-24T19:00:20 IST" duration-ms="110" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeMethodUI()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@5b408dc3]" started-at="2023-07-02T15:07:39 IST" name="beforeMethodUI" finished-at="2023-07-02T15:07:43 IST" duration-ms="4406" status="PASS">
+        <test-method is-config="true" signature="beforeMethodUI()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:00:21 IST" name="beforeMethodUI" finished-at="2023-07-24T19:00:25 IST" duration-ms="4352" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethodUI -->
-        <test-method is-config="true" signature="setupBeforeMethod(org.testng.ITestResult)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@5b408dc3]" started-at="2023-07-02T15:07:43 IST" name="setupBeforeMethod" finished-at="2023-07-02T15:07:46 IST" duration-ms="2517" status="PASS">
+        <test-method is-config="true" signature="setupBeforeMethod(org.testng.ITestResult)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:00:25 IST" name="setupBeforeMethod" finished-at="2023-07-24T19:00:38 IST" duration-ms="12459" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name={null} status=CREATED method=ProductDetailTest.verifyNoBrokenImages()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@5b408dc3] output={null}]]]>
+                <![CDATA[[TestResult name={null} status=CREATED method=ProductDetailTest.VerifyCorrectRatesAfterDiscount(java.lang.String)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupBeforeMethod -->
-        <test-method signature="verifyNoBrokenImages()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@5b408dc3]" started-at="2023-07-02T15:07:46 IST" name="verifyNoBrokenImages" finished-at="2023-07-02T15:07:50 IST" duration-ms="4156" status="PASS">
+        <test-method signature="VerifyCorrectRatesAfterDiscount(java.lang.String)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:00:38 IST" name="VerifyCorrectRatesAfterDiscount" description="Verify correct rates after discount" data-provider="testData" finished-at="2023-07-24T19:01:11 IST" duration-ms="33493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Computer]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyNoBrokenImages -->
-        <test-method is-config="true" signature="afterMethodUI()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@5b408dc3]" started-at="2023-07-02T15:07:50 IST" name="afterMethodUI" finished-at="2023-07-02T15:07:51 IST" duration-ms="889" status="PASS">
+        </test-method> <!-- VerifyCorrectRatesAfterDiscount -->
+        <test-method is-config="true" signature="teardownAfterMethod(org.testng.ITestResult)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:01:11 IST" name="teardownAfterMethod" finished-at="2023-07-24T19:01:11 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyCorrectRatesAfterDiscount status=SUCCESS method=ProductDetailTest.VerifyCorrectRatesAfterDiscount(java.lang.String)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownAfterMethod -->
+        <test-method is-config="true" signature="afterMethodUI()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:01:11 IST" name="afterMethodUI" finished-at="2023-07-24T19:01:12 IST" duration-ms="822" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethodUI -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@5b408dc3]" started-at="2023-07-02T15:07:51 IST" name="tearDown" finished-at="2023-07-02T15:07:51 IST" duration-ms="384" status="PASS">
+        <test-method is-config="true" signature="beforeMethodUI()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:01:12 IST" name="beforeMethodUI" finished-at="2023-07-24T19:01:15 IST" duration-ms="2559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethodUI -->
+        <test-method is-config="true" signature="setupBeforeMethod(org.testng.ITestResult)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:01:15 IST" name="setupBeforeMethod" finished-at="2023-07-24T19:01:19 IST" duration-ms="4048" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=ProductDetailTest.VerifyCorrectRatesAfterDiscount(java.lang.String)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupBeforeMethod -->
+        <test-method signature="VerifyCorrectRatesAfterDiscount(java.lang.String)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:01:19 IST" name="VerifyCorrectRatesAfterDiscount" description="Verify correct rates after discount" data-provider="testData" finished-at="2023-07-24T19:01:26 IST" duration-ms="6895" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HeadPhones]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCorrectRatesAfterDiscount -->
+        <test-method is-config="true" signature="afterMethodUI()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:01:26 IST" name="afterMethodUI" finished-at="2023-07-24T19:01:26 IST" duration-ms="808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethodUI -->
+        <test-method is-config="true" signature="teardownAfterMethod(org.testng.ITestResult)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:01:26 IST" name="teardownAfterMethod" finished-at="2023-07-24T19:01:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyCorrectRatesAfterDiscount status=SUCCESS method=ProductDetailTest.VerifyCorrectRatesAfterDiscount(java.lang.String)[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardownAfterMethod -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nagpassignment.flipkart.uitestcases.ProductDetailTest@35229f85]" started-at="2023-07-24T19:01:26 IST" name="tearDown" finished-at="2023-07-24T19:01:27 IST" duration-ms="473" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

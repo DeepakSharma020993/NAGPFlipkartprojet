@@ -1,0 +1,20 @@
+2023-07-24 19:00:20,687 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-07-24 19:00:37,959 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ?]
+2023-07-24 19:00:38,165 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-24 19:00:38,376 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-24 19:00:38,498 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-24 19:00:38,890 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-24 19:00:39,006 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-24 19:00:42,165 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: ASSEMBLD 2000 Core i3 (8 GB DDR3/1 TB/128 GB SSD/Window...]
+2023-07-24 19:00:42,351 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: ASSEMBLD 2000 Core i3 (8 GB DDR3/1 TB/128 GB SSD/Window...]
+2023-07-24 19:01:11,707 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-24 19:01:19,057 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ?]
+2023-07-24 19:01:19,136 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-07-24 19:01:19,251 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-07-24 19:01:19,342 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-07-24 19:01:19,708 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-07-24 19:01:19,871 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-07-24 19:01:23,051 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: Boult Audio Y1 with Zen ENC Mic, 40Hrs Playtime, Fast C...]
+2023-07-24 19:01:23,249 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: Boult Audio Y1 with Zen ENC Mic, 40Hrs Playtime, Fast C...]
+2023-07-24 19:01:26,031 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-07-24 19:01:27,328 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.
