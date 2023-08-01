@@ -11,69 +11,54 @@ pipeline {
 
         stage('Build') {
             steps {
-                // Display a message to indicate the build is starting
-        		echo 'Starting the build using Maven'
-
-       		    // Build your Mavenized code using Maven
-       		    sh 'mvn clean package'
+                echo 'Starting the build using Maven'
+                sh 'mvn clean package'
             }
         }
 
         stage('SonarQube Analysis') {
-             steps {
-            
-             echo 'Starting SonarQube code analysis'
-
-     
-              withSonarQubeEnv('http://localhost:9000') {
-            sh 'mvn sonar:sonar -Dsonar.login=sqa_5a2d7aaa043f45a5525ac7a3152da861dfa6f5be'
-        }
-    }
+            steps {
+                echo 'Starting SonarQube code analysis'
+                withSonarQubeEnv('http://localhost:9000') {
+                    sh 'mvn sonar:sonar -Dsonar.login=sqa_5a2d7aaa043f45a5525ac7a3152da861dfa6f5be'
+                }
+            }
         }
 
         stage('Run Tests') {
             steps {
-                echo 'Starting Test'
+                echo 'Starting Tests'
                 sh 'mvn test'
             }
         }
 
         stage('Quality Gate') {
             steps {
-               withSonarQubeEnv('http://localhost:9000') {
-                             sh 'mvn sonar:quality-gate'
-                         }
+                echo 'Checking Quality Gate'
+                withSonarQubeEnv('http://localhost:9000') {
+                    sh 'mvn sonar:quality-gate'
+                }
             }
         }
 
         stage('Artifactory Upload') {
-    steps {
-        // Display a message to indicate the artifact upload is starting
-        echo 'Starting artifact upload to Artifactory'
-
-        // Upload the artifacts to Artifactory if the build is successful and SonarQube quality gate passes
-        // Replace 'your_artifactory_url' with the URL of your Artifactory repository
-        // Replace 'your_artifactory_username' and 'your_artifactory_password' with the appropriate Artifactory credentials
-        // Example: sh 'mvn deploy -Dmaven.deploy.skip=true -Dmaven.repo.url=http://localhost:8082/artifactory -Dmaven.repo.username=admin -Dmaven.repo.password=Deep@1234'
-    }
-}
-        
+            steps {
+                echo 'Starting artifact upload to Artifactory'
+                
+                sh 'mvn deploy -Dmaven.deploy.skip=true -Dmaven.repo.url=http://localhost:8082/artifactory -Dmaven.repo.username=admin -Dmaven.repo.password=Deep@1234'
+            }
+        }
     }
 
     post {
-        always {
-            // Ensure the test results are visible on the SonarQube dashboard
-            // Example: junit '**/target/surefire-reports/*.xml'
-        }
-
         success {
-            // If build is successful, add post-build actions here (optional)
-            // Example: emailext body: 'The Jenkins build is successful!', subject: 'Build Status', to: 'user@example.com'
+            echo 'Pipeline execution succeeded!'
+            // Add any post-success actions or notifications here
         }
 
         failure {
-            // If build fails, fail the pipeline explicitly
-            // Example: error('Build failed due to Sonar analysis or test failures.')
+            echo 'Pipeline execution failed!'
+            // Add any post-failure actions or notifications here
         }
     }
 }
