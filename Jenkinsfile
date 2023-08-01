@@ -4,50 +4,60 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                // Check out the code from the private GitHub repository
-                // For example, if your repository is private, you need to set up credentials to access it
-                // Example: git credentialsId: 'github-credentials', url: 'https://github.com/your_username/your_repository.git'
+               echo 'Checking out the code from the public GitHub repository'
+               git url: 'https://github.com/DeepakSharma020993/NAGPFlipkartprojet.git'
             }
         }
 
         stage('Build') {
             steps {
-                // Build your Mavenized code using Maven
-                // Example: sh 'mvn clean package'
+                // Display a message to indicate the build is starting
+        		echo 'Starting the build using Maven'
+
+       		    // Build your Mavenized code using Maven
+       		    sh 'mvn clean package'
             }
         }
 
         stage('SonarQube Analysis') {
-            steps {
-                // Integrate Sonar code analysis
-                // Example: withSonarQubeEnv('SonarQubeServer') {
-                //             sh 'mvn sonar:sonar -Dsonar.login=your_sonar_token'
-                //          }
-            }
+             steps {
+            
+             echo 'Starting SonarQube code analysis'
+
+     
+              withSonarQubeEnv('http://localhost:9000') {
+            sh 'mvn sonar:sonar -Dsonar.login=sqa_5a2d7aaa043f45a5525ac7a3152da861dfa6f5be'
+        }
+    }
         }
 
         stage('Run Tests') {
             steps {
-                // Execute your tests here
-                // Example: sh 'mvn test'
+                echo 'Starting Test'
+                sh 'mvn test'
             }
         }
 
         stage('Quality Gate') {
             steps {
-                // Ensure there are no bugs and vulnerabilities in your code
-                // Example: withSonarQubeEnv('SonarQubeServer') {
-                //             sh 'mvn sonar:quality-gate'
-                //          }
+               withSonarQubeEnv('http://localhost:9000') {
+                             sh 'mvn sonar:quality-gate'
+                         }
             }
         }
 
         stage('Artifactory Upload') {
-            steps {
-                // Upload the artifacts to Artifactory if build passes all the tests and Sonar quality gate
-                // Example: sh 'mvn deploy -Dmaven.deploy.skip=true'
-            }
-        }
+    steps {
+        // Display a message to indicate the artifact upload is starting
+        echo 'Starting artifact upload to Artifactory'
+
+        // Upload the artifacts to Artifactory if the build is successful and SonarQube quality gate passes
+        // Replace 'your_artifactory_url' with the URL of your Artifactory repository
+        // Replace 'your_artifactory_username' and 'your_artifactory_password' with the appropriate Artifactory credentials
+        // Example: sh 'mvn deploy -Dmaven.deploy.skip=true -Dmaven.repo.url=http://localhost:8082/artifactory -Dmaven.repo.username=admin -Dmaven.repo.password=Deep@1234'
+    }
+}
+        
     }
 
     post {
