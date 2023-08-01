@@ -9,11 +9,39 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">MyTestSuite</th></tr>
-<tr><td><a href="#t0">MyTest</a></td><td class="num">2</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">66,152</td><td></td><td></td></tr>
+<tr><td><a href="#t0">MyTest</a></td><td class="num">2</td><td class="num">0</td><td class="num attn">1</td><td class="num">0</td><td class="num">56,686</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">MyTestSuite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">MyTest &#8212; passed</th></tr><tr class="passedeven"><td rowspan="2">com.nagpassignment.flipkart.uitestcases.ProductDetailTest</td><td><a href="#m0">VerifyCorrectRatesAfterDiscount</a></td><td rowspan="2">1690205479136</td><td rowspan="2">6895</td></tr><tr class="passedeven"><td><a href="#m1">VerifyCorrectRatesAfterDiscount</a></td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">MyTestSuite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">MyTest &#8212; retried</th></tr><tr class="retriedeven"><td rowspan="1">com.nagpassignment.flipkart.uitestcases.ProductDetailTest</td><td><a href="#m0">VerifyCorrectRatesAfterDiscount</a></td><td rowspan="1">1690874697504</td><td rowspan="1">1435</td></tr><tr><th colspan="4">MyTest &#8212; passed</th></tr><tr class="passedeven"><td rowspan="2">com.nagpassignment.flipkart.uitestcases.ProductDetailTest</td><td><a href="#m1">VerifyCorrectRatesAfterDiscount</a></td><td rowspan="2">1690874707092</td><td rowspan="2">7225</td></tr><tr class="passedeven"><td><a href="#m2">VerifyCorrectRatesAfterDiscount</a></td></tr></tbody>
 </table>
-<h2>MyTest</h2><h3 id="m0">com.nagpassignment.flipkart.uitestcases.ProductDetailTest#VerifyCorrectRatesAfterDiscount</h3><table class="result"><tr class="param"><th>Parameter #1</th></tr><tr class="param stripe"><td>HeadPhones</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>MyTest</h2><h3 id="m0">com.nagpassignment.flipkart.uitestcases.ProductDetailTest#VerifyCorrectRatesAfterDiscount</h3><table class="result"><tr class="param"><th>Parameter #1</th></tr><tr class="param stripe"><td>Computer</td></tr><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;input class=&quot;Pke_EE&quot; type=&quot;text&quot; title=&quot;Search for Products, Brands and More&quot; name=&quot;q&quot; autocomplete=&quot;off&quot; placeholder=&quot;Search for Products, Brands and More&quot; value=&quot;&quot;&gt; is not clickable at point (475, 32). Other element would receive the click: &lt;div class=&quot;_23axDd&quot;&gt;&lt;/div&gt;
+  (Session info: chrome=115.0.5790.110)
+Build info: version: &apos;4.8.3&apos;, revision: &apos;e5e76298c3&apos;
+System info: os.name: &apos;Windows 11&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;17.0.8&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7c882a1d4261353239e1ea5b5ea1e779, clickElement {id=4911AB1170FDA0B8C1782117880BC205_element_104}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 115.0.5790.110, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\DEEPAK~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61548}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61548/devtoo..., se:cdpVersion: 115.0.5790.110, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (7c882a1d4261353239e1ea5b5ea1e779)] -&gt; xpath: //input[@name=&apos;q&apos;]]
+Session ID: 7c882a1d4261353239e1ea5b5ea1e779
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:193)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:183)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:158)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.lambda$new$0(EventFiringWebDriver.java:378)
+	at jdk.proxy2/jdk.proxy2.$Proxy33.click(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$EventFiringWebElement.click(EventFiringWebDriver.java:391)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+	at jdk.proxy2/jdk.proxy2.$Proxy32.click(Unknown Source)
+	at com.nagpassignment.flipkart.pages.FlipkartSearchPage.searchProduct(FlipkartSearchPage.java:94)
+	at com.nagpassignment.flipkart.pages.FlipkartSearchPage.goToProductDetailPage(FlipkartSearchPage.java:201)
+	at com.nagpassignment.flipkart.uitestcases.ProductDetailTest.VerifyCorrectRatesAfterDiscount(ProductDetailTest.java:159)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 44 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 <h3 id="m1">com.nagpassignment.flipkart.uitestcases.ProductDetailTest#VerifyCorrectRatesAfterDiscount</h3><table class="result"><tr class="param"><th>Parameter #1</th></tr><tr class="param stripe"><td>Computer</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.nagpassignment.flipkart.uitestcases.ProductDetailTest#VerifyCorrectRatesAfterDiscount</h3><table class="result"><tr class="param"><th>Parameter #1</th></tr><tr class="param stripe"><td>HeadPhones</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

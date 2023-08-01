@@ -1,0 +1,22 @@
+2023-08-01 12:54:34,280 INFO  [main] c.n.f.b.BaseTest - Extent Report Initialized successfully
+2023-08-01 12:54:57,504 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-08-01 12:54:57,789 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-08-01 12:55:06,935 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ?]
+2023-08-01 12:55:07,093 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-08-01 12:55:07,346 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-08-01 12:55:07,543 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-08-01 12:55:08,141 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-08-01 12:55:08,446 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-08-01 12:55:11,533 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: ASSEMBLD 2000 Core i3 (8 GB DDR3/1 TB/128 GB SSD/Window...]
+2023-08-01 12:55:11,667 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: ASSEMBLD 2000 Core i3 (8 GB DDR3/1 TB/128 GB SSD/Window...]
+2023-08-01 12:55:14,317 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-08-01 12:55:21,370 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ?]
+2023-08-01 12:55:21,546 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' started.
+2023-08-01 12:55:21,795 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: input, Text: ]
+2023-08-01 12:55:22,031 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: input, Text: ]
+2023-08-01 12:55:22,632 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: button, Text: ]
+2023-08-01 12:55:22,892 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: button, Text: ]
+2023-08-01 12:55:25,982 INFO  [main] c.n.f.b.BaseTest - Clicking on element: Element [Tag: a, Text: Boult Audio X50 with 40Hr Battery, Quad Mic ENC, 45ms U...]
+2023-08-01 12:55:26,198 INFO  [main] c.n.f.b.BaseTest - Clicked on element: Element [Tag: a, Text: Boult Audio X50 with 40Hr Battery, Quad Mic ENC, 45ms U...]
+2023-08-01 12:55:30,034 INFO  [main] c.n.f.b.BaseTest - Test 'VerifyCorrectRatesAfterDiscount' passed.
+2023-08-01 12:55:31,530 INFO  [main] c.n.f.b.BaseTest - WebDriver closed successfully.

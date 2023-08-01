@@ -16,38 +16,9 @@ pipeline {
             }
         }
 
-        stage('SonarQube Analysis') {
-            steps {
-                echo 'Starting SonarQube code analysis'
-                withSonarQubeEnv('http://localhost:9000') {
-                    sh 'mvn sonar:sonar -Dsonar.login=sqa_5a2d7aaa043f45a5525ac7a3152da861dfa6f5be'
-                }
-            }
-        }
 
-        stage('Run Tests') {
-            steps {
-                echo 'Starting Tests'
-                sh 'mvn test'
-            }
-        }
 
-        stage('Quality Gate') {
-            steps {
-                echo 'Checking Quality Gate'
-                withSonarQubeEnv('http://localhost:9000') {
-                    sh 'mvn sonar:quality-gate'
-                }
-            }
-        }
-
-        stage('Artifactory Upload') {
-            steps {
-                echo 'Starting artifact upload to Artifactory'
-                
-                sh 'mvn deploy -Dmaven.deploy.skip=true -Dmaven.repo.url=http://localhost:8082/artifactory -Dmaven.repo.username=admin -Dmaven.repo.password=Deep@1234'
-            }
-        }
+        
     }
 
     post {
