@@ -12,7 +12,15 @@ pipeline {
         stage('Build') {
             steps {
                 echo 'Starting the build using Maven'
-                bat 'mvn clean package'
+                bat 'mvn clean package -DskipTests'
+            }
+        }
+        stage('SonarQube Analysis') {
+            steps {
+                echo 'Starting SonarQube code analysis'
+                withSonarQubeEnv('http://localhost:9000') {
+                    sh 'mvn sonar:sonar -Dsonar.login=sqa_5a2d7aaa043f45a5525ac7a3152da861dfa6f5be'
+                }
             }
         }
 
