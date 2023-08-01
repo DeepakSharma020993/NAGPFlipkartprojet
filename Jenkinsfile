@@ -33,7 +33,7 @@ pipeline {
         stage('Quality Gate') {
             steps {
                 echo 'Checking Quality Gate'
-                withSonarQubeEnv('http://localhost:9000') {
+                withSonarQubeEnv('test Sonar') {
                     bat 'mvn sonar:quality-gate'
                 }
             }
