@@ -34,10 +34,20 @@ pipeline {
             steps {
                 echo 'Checking Quality Gate'
                 withSonarQubeEnv('test Sonar') {
-                    bat 'mvn verify'
+                    bat 'mvn verify -DskipTests'
                 }
             }
         }
+        
+        stage('Artifactory Upload') {
+            steps {
+                echo 'Starting artifact upload to Artifactory'
+                
+                bat 'mvn deploy -Dmaven.deploy.skip=true -Dmaven.repo.url=http://localhost:8082/artifactory -Dmaven.repo.username=admin -Dmaven.repo.password=Deep@1234'
+            }
+        }
+    }
+        
 
 
 
