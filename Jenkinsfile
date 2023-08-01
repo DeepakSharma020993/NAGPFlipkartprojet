@@ -19,7 +19,7 @@ pipeline {
             steps {
                 echo 'Starting SonarQube code analysis'
                 withSonarQubeEnv('test Sonar') {
-                    sh 'mvn sonar:sonar -Dsonar.login=sqa_5a2d7aaa043f45a5525ac7a3152da861dfa6f5be'
+                    bat 'mvn sonar:sonar -Dsonar.login=sqa_5a2d7aaa043f45a5525ac7a3152da861dfa6f5be'
                 }
             }
         }
