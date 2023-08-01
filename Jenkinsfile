@@ -34,7 +34,7 @@ pipeline {
             steps {
                 echo 'Checking Quality Gate'
                 withSonarQubeEnv('test Sonar') {
-                    bat 'mvn sonar:quality-gate'
+                    bat 'mvn verify'
                 }
             }
         }
