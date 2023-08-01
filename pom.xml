@@ -29,17 +29,9 @@
         </configuration>
       </plugin>
       <plugin>
-    <groupId>org.sonarsource.scanner.maven</groupId>
-    <artifactId>sonar-maven-plugin</artifactId>
-    <version>3.9.1.2184</version>
-    <executions>
-        <execution>
-            <phase>verify</phase>
-            <goals>
-                <goal>sonar</goal>
-            </goals>
-        </execution>
-    </executions>
+  <groupId>io.github.r0bb3n</groupId>
+  <artifactId>sonar-quality-gate-maven-plugin</artifactId>
+  <version>1.3.0</version>
 </plugin>
 
     </plugins>
