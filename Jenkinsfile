@@ -23,6 +23,21 @@ pipeline {
                 }
             }
         }
+        stage('Run Tests') {
+            steps {
+                echo 'Starting Tests'
+                bat 'mvn test'
+            }
+        }
+
+        stage('Quality Gate') {
+            steps {
+                echo 'Checking Quality Gate'
+                withSonarQubeEnv('http://localhost:9000') {
+                    bat 'mvn sonar:quality-gate'
+                }
+            }
+        }
 
 
 
