@@ -46,11 +46,8 @@ pipeline {
                 bat 'mvn deploy -Dmaven.deploy.skip=true -Dmaven.repo.url=http://localhost:8082/artifactory -Dmaven.repo.username=admin -Dmaven.repo.password=Deep@1234'
             }
         }
-    }
-        
-
-
-
+    
+      
         
     }
 
