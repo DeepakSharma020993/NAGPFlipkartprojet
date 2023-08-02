@@ -39,12 +39,23 @@ pipeline {
             }
         }
         
-        stage('Artifactory Upload') {
+        stage('Publish to Artifactory') {
             steps {
-                echo 'Starting artifact upload to Artifactory'
-                
-                bat 'mvn deploy -Dmaven.deploy.skip=true -Dmaven.repo.url=http://localhost:8082/artifactory -Dmaven.repo.username=admin -Dmaven.repo.password=Deep@1234'
-            }
+               rtMavenDeployer(
+               id:'deployer',
+               serverId : 'nafarroops@artifactory',
+               releaseRepo : 'samplerepo',
+               snapshotRepo : 'samplerepo'
+            )
+            rtMavenRun(
+            	pom: 'pom.xml',
+            	goals: 'clean install',
+            	deployerId: 'deployer'
+            )
+            rtPublishBuildInfo(
+            	serverId: 'nafarroops@artifactory',
+            )
+        }
         }
     
       
@@ -54,12 +65,12 @@ pipeline {
     post {
         success {
             echo 'Pipeline execution succeeded!'
-            // Add any post-success actions or notifications here
+            
         }
 
         failure {
             echo 'Pipeline execution failed!'
-            // Add any post-failure actions or notifications here
+           
         }
     }
 }
