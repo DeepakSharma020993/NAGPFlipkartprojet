@@ -44,8 +44,8 @@ pipeline {
                rtMavenDeployer(
                id:'deployer',
                serverId : 'nafarroops@artifactory',
-               releaseRepo : 'samplerepo',
-               snapshotRepo : 'samplerepo'
+               releaseRepo : 'nagp2023',
+               snapshotRepo : 'nagp2023'
             )
             rtMavenRun(
             	pom: 'pom.xml',
