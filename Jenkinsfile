@@ -1,6 +1,6 @@
 pipeline {
     agent any
-
+	
     stages {
         stage('Checkout') {
             steps {
@@ -49,6 +49,7 @@ pipeline {
             )
             rtMavenRun(
             	pom: 'pom.xml',
+            	tool: 'Maven 3.9.4',
             	goals: 'clean install',
             	deployerId: 'deployer'
             )
