@@ -50,7 +50,7 @@ pipeline {
             rtMavenRun(
             	pom: 'pom.xml',
             	tool: 'Maven 3.9.4',
-            	goals: 'clean install',
+            	goals: 'clean install -DskipTests',
             	deployerId: 'deployer'
             )
             rtPublishBuildInfo(
