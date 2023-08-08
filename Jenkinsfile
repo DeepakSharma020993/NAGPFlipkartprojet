@@ -11,7 +11,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Starting the build using Maven'
+                echo 'Starting the build using Maven tool'
                 bat 'mvn clean package -DskipTests'
             }
         }
